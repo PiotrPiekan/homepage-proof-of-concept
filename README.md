@@ -1,4 +1,4 @@
-## strona-domowa
+## homepage-project
 
 Jest to, można by rzec, *Proof of Concept* mojej strony domowej.
 Jedynymi rzeczami bezpośrednio związanymi ze mną są wykonanie, design i moje zdjęcie, reszta to placeholdery.

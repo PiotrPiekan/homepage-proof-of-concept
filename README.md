@@ -1,5 +1,4 @@
-# Projekt zaliczeniowy
-## Strona domowa z użyciem Bootstrapa 5
+## strona-domowa
 
 Jest to, można by rzec, *Proof of Concept* mojej strony domowej.
 Jedynymi rzeczami bezpośrednio związanymi ze mną są wykonanie, design i moje zdjęcie, reszta to placeholdery.
@@ -12,7 +11,7 @@ Strona używa wzoru w tle wykonanego przez [@d__raptis](https://twitter.com/d__r
 ##### Pliki:
 - `html/` - Strony na które może wchodzić użytkownik
   - `about.html` - Strona mogąca zawierać mój życiorys, opis. Aktualnie jest tam lorem ipsum.
-  - `contact.html` - Formularz kontaktowy, podobny do tego z zadania 15. Maile są wysyłane do mojej skrzynki USOS.
+  - `contact.html` - Formularz kontaktowy. Maile są wysyłane do mojej skrzynki USOS.
   - `gallery.php` - Galeria moich obrazków. Można je powiększyć klikając na nie.
   - `index.html` - Strona główna z linkami.
 
@@ -26,7 +25,7 @@ Strona używa wzoru w tle wykonanego przez [@d__raptis](https://twitter.com/d__r
 - `js/contact.js` - Skrypt do contact.html. Używa funkcji fetch()
 
 - `php/`
-  - `contact.php` - Skrypt wysyłania maila. Podobny do tych z zadań 14, 15
+  - `contact.php` - Skrypt wysyłania maila.
   - `galleryscript1.php` - Skrypt galerii. Pobiera obrazki z katalogu *images/gallery* i wyświetla je.
   - `galleryscript2.php` - Ładuje obrazki do powiększonego widoku w karuzeli w modalu.
 
